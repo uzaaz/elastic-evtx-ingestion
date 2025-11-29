@@ -1,8 +1,0 @@
-update_time: 2025-11-29T11:51:37.7400024Z
-event_logs:
-- name: C:\ELK_Forensics\Evidence\Credential Access\Zerologon_VoidSec_CVE-2020-1472_4626_LT3_Anonym_follwedby_4742_DC_Anony_DC.evtx
-  record_number: 768628
-  timestamp: 2020-09-15T19:31:34.9548097Z
-  bookmark: "<BookmarkList>\r\n  <Bookmark Channel='C:\\ELK_Forensics\\Evidence\\Credential
-    Access\\Zerologon_VoidSec_CVE-2020-1472_4626_LT3_Anonym_follwedby_4742_DC_Anony_DC.evtx'
-    RecordId='9' IsCurrent='true'/>\r\n</BookmarkList>"
