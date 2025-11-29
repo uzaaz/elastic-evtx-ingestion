@@ -11,8 +11,8 @@ winlogbeat.shutdown_timeout: 30s
 winlogbeat.registry_file: winlogbeat-forensic.data
 
 # Your Cloud Details
-cloud.id: "My_deployment:dXMtY2VudHJhbDEuZ2NwLmNsb3VkLmVzLmlvOjQ0MyQ4YjcxOTU1ZGEwNGM0NWJiYjZiY2Y1NGE0ZjZmMDY2ZSRmYWJjNjkwZGYwYTI0ODc2OGNlOTE4N2E5OGM1ZTdjMA=="
-cloud.auth: "elastic:2RG8x6TUbRZX3zm4EgHAhHTU"
+cloud.id: "My_deployment_Cloud_ID_Here"
+cloud.auth: "elastic:Password_Here"
 
 output.elasticsearch:
   tty: true
